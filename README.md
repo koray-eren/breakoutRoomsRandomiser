@@ -14,7 +14,7 @@ only change:
 if both PRINTGROUPS and PRINTSTATS are false, there will be no output
 
 **Uses:**
-- randomise groups for a given instance
+- randomise groups for a single instance/use
   - leave all variables as default
 - run many iterations and see statistics for how many times each person was matched with another (i.e. how well the randomisation worked)
   - change ITERATIONS to desired number, PRINTGROUPS = False, PRINTSTATS = True
